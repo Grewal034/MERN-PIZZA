@@ -29,3 +29,9 @@ h1{
 .flex-container{
   display: flex;
 }
+
+.btn{
+  background-color: red !important;
+  color: white !important;
+
+}
